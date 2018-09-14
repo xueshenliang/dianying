@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0"/>
+    <meta name="format-detection" content="telephone=no,email=no,date=no,address=no">
+    <title>主页</title>
+    <link rel="stylesheet" type="text/css" href="../css/api.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/mui.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/main_p.css"/>
+    <script type="text/javascript" src="../script/api.js"></script>
+    <script type="text/javascript" src="../script/min.js"></script>
+    <script type="text/javascript" src="../script/jq.min.js"></script>
+    <script type="text/javascript" src="../script/vue.min.js"></script>
+</head>
+<body>
+<div id="app">
+    <!--搜索框-->
+    <div class="search" onclick="go_search();">
+        <div class="img"></div>
+        <div class="desc">
+            <span class="txt">搜索</span>
+        </div>
+    </div>
+
+    <div class="cont">
+        <div class="b x">
+            <div class="goodlist" v-for="item in list" @click="go_detail(item.url,item.jianjie)">
+                <img class="img" v-bind:src="item.img">
+
+                <div class="mt">
+                    <span class="name">{{item.name}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+</body>
+<script type="text/javascript">
+
+
+    var ceshiUrl = 'http://www.solearn.top/xsl/index.php/Data/File/get_list';
+    var data_list = "";
+    (function () {
+        vm = new Vue({
+            el: '#app',
+            data: {
+                list: []
+            }
+        });
+        getlist();
+    })();
+
+
+    function getlist() {
+        var url = ceshiUrl;
+        $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: url,
+            data: {},
+            success: function (data) {
+                vm.list = data.data;
+            }
+        });
+    }
+
+    function go_detail(url, jianjie) {
+        api.openFrame({
+            name: 'goods_detail',
+            url: '../html/goods_detail.html',
+            bounces: false,
+            pageParam: {url: url},
+            rect: {
+                x: 0,
+                // y: headerH,
+                w: 'auto'
+                // h: frameH
+            }
+        });
+    }
+
+    apiready = function () {
+
+    }
+
+</script>
+
+</html>

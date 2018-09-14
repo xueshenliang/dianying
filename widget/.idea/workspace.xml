@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47b24f5d-6eb7-4198-9744-af7469b43e96" name="Default" comment="" />
+    <ignored path="webapp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="webapp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.538462" vertical-offset="1650" max-vertical-offset="2940">
+              <caret line="70" column="38" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goods_detail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/goods_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4623656" vertical-offset="4173" max-vertical-offset="5400">
+              <caret line="152" column="69" selection-start-line="152" selection-start-column="69" selection-end-line="152" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/html.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.871795" vertical-offset="650" max-vertical-offset="1620">
+              <caret line="41" column="22" selection-start-line="10" selection-start-column="3" selection-end-line="41" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/html/go_buy.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/user.css" />
+        <option value="$PROJECT_DIR$/html/user_add_address.html" />
+        <option value="$PROJECT_DIR$/css/special.css" />
+        <option value="$PROJECT_DIR$/css/daifahuo.css" />
+        <option value="$PROJECT_DIR$/css/dingdan.css" />
+        <option value="$PROJECT_DIR$/html/synopsis.html" />
+        <option value="$PROJECT_DIR$/html/shoucang.html" />
+        <option value="$PROJECT_DIR$/html/tuikuan.html" />
+        <option value="$PROJECT_DIR$/css/feedback.css" />
+        <option value="$PROJECT_DIR$/html/rituall.html" />
+        <option value="$PROJECT_DIR$/css/heard.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp49437/alidata/www/esitewx/application/index/controller/Createimg.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp36605/alidata/www/esitewx/application/index/controller/Wxpay.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp18177/alidata/www/esitepc/Application/Admin/View/Jxc/kucuntiaojia.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp18699/alidata/www/esitepc/Application/Admin/Controller/KuCunTiaoJiaController.class.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp32647/alidata/www/province/Application/Runtime/Logs/Main/18_09_05.log" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp31663/alidata/www/province/Application/Main/Controller/CompanyController.class.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp31183/alidata/www/esitewx/application/index/controller/Collage.php" />
+        <option value="$PROJECT_DIR$/css/main_p.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp54814/data/www/esitewx/application/index/controller/Collage.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp17866/alidata/www/esitewx/application/index/controller/Collage.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp21663/alidata/www/esitewx/application/index/controller/Collage.php" />
+        <option value="D:/phpStudy/WWW/des.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp00084/alidata/www/esitewx/application/index/controller/Collage.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp39491/data/www/esitewx/application/index/controller/Collage.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp48459/alidata/www/esitewx/application/index/controller/Collage.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp58237/alidata/www/esitewx/application/index/controller/Base.php" />
+        <option value="$PROJECT_DIR$/html/special.html" />
+        <option value="$PROJECT_DIR$/html/listdetail.html" />
+        <option value="$PROJECT_DIR$/html/categor.html" />
+        <option value="$PROJECT_DIR$/css/cart.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp54180/alidata/www/esitewx/application/index/controller/Createimg.php" />
+        <option value="$PROJECT_DIR$/html/user.html" />
+        <option value="$PROJECT_DIR$/css/order_detail.css" />
+        <option value="$PROJECT_DIR$/html/dingdan.html" />
+        <option value="$PROJECT_DIR$/html/daifahuo.html" />
+        <option value="$PROJECT_DIR$/html/success.html" />
+        <option value="$PROJECT_DIR$/html/daishouhuo.html" />
+        <option value="$PROJECT_DIR$/html/feedback.html" />
+        <option value="$PROJECT_DIR$/html/order_detail.html" />
+        <option value="$PROJECT_DIR$/html/search.html" />
+        <option value="$PROJECT_DIR$/html/cart.html" />
+        <option value="D:/phpStudy/WWW/zhongxin.php" />
+        <option value="$PROJECT_DIR$/css/search.css" />
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp03005/data/www/esitewx/application/index/controller/Dianying.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp25628/data/www/xsl/Application/Data/Controller/FileController.class.php" />
+        <option value="$PROJECT_DIR$/html/main.html" />
+        <option value="$PROJECT_DIR$/html/goods_detail.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiaoyingyuan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiaoyingyuan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiaoyingyuan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47b24f5d-6eb7-4198-9744-af7469b43e96" name="Default" comment="" />
+      <created>1534925313767</created>
+      <option name="number" value="Default" />
+      <updated>1534925313767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.121875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.121875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/phpStudy/WWW/zhongxin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12960">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="0" column="44" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/phpStudy/WWW/zhongxin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5910">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main_p.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4804" max-vertical-offset="7530">
+          <caret line="177" column="12" selection-start-line="177" selection-start-column="12" selection-end-line="177" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/heard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6202394" vertical-offset="0" max-vertical-offset="1290">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/p_main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="919">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17850">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/jq.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/vue.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main_p.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4804" max-vertical-offset="7530">
+          <caret line="177" column="12" selection-start-line="177" selection-start-column="12" selection-end-line="177" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/phpStudy/WWW/des.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.92045456" vertical-offset="90" max-vertical-offset="2850">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/phpStudy/WWW/zhongxin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31141868" vertical-offset="4020" max-vertical-offset="12960">
+          <caret line="143" column="5" selection-start-line="143" selection-start-column="5" selection-end-line="143" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35227272" vertical-offset="5930" max-vertical-offset="7800">
+          <caret line="208" column="43" selection-start-line="208" selection-start-column="43" selection-end-line="208" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="0" column="44" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp43400/data/www/esitewx/thinkphp/library/think/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1418685" vertical-offset="810" max-vertical-offset="14280">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp03005/data/www/esitewx/application/index/controller/Dianying.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75" vertical-offset="540" max-vertical-offset="1440">
+          <caret line="40" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <marker date="1536918574666" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp25163/data/www/xsl/Application/Data/Controller/PageController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4152249" vertical-offset="270" max-vertical-offset="3240">
+          <caret line="24" column="37" selection-start-line="23" selection-start-column="7" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1500618197000" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp25628/data/www/xsl/Application/Data/Controller/FileController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10034602" vertical-offset="333" max-vertical-offset="1650">
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+          <folding>
+            <marker date="1536919562624" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1536919562624" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.871795" vertical-offset="650" max-vertical-offset="1620">
+          <caret line="41" column="22" selection-start-line="10" selection-start-column="3" selection-end-line="41" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.538462" vertical-offset="1650" max-vertical-offset="2940">
+          <caret line="70" column="38" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/goods_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4623656" vertical-offset="4173" max-vertical-offset="5400">
+          <caret line="152" column="69" selection-start-line="152" selection-start-column="69" selection-end-line="152" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
