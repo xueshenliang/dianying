@@ -24,38 +24,7 @@
     <favorites_list name="webapp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.538462" vertical-offset="1650" max-vertical-offset="2940">
-              <caret line="70" column="38" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="goods_detail.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/goods_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4623656" vertical-offset="4173" max-vertical-offset="5400">
-              <caret line="152" column="69" selection-start-line="152" selection-start-column="69" selection-end-line="152" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/html.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.871795" vertical-offset="650" max-vertical-offset="1620">
-              <caret line="41" column="22" selection-start-line="10" selection-start-column="3" selection-end-line="41" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,9 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/html/go_buy.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/user.css" />
         <option value="$PROJECT_DIR$/html/user_add_address.html" />
         <option value="$PROJECT_DIR$/css/special.css" />
         <option value="$PROJECT_DIR$/css/daifahuo.css" />
@@ -83,7 +49,6 @@
         <option value="$USER_HOME$/AppData/Local/Temp/scp32647/alidata/www/province/Application/Runtime/Logs/Main/18_09_05.log" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp31663/alidata/www/province/Application/Main/Controller/CompanyController.class.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp31183/alidata/www/esitewx/application/index/controller/Collage.php" />
-        <option value="$PROJECT_DIR$/css/main_p.css" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp54814/data/www/esitewx/application/index/controller/Collage.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp17866/alidata/www/esitewx/application/index/controller/Collage.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp21663/alidata/www/esitewx/application/index/controller/Collage.php" />
@@ -111,8 +76,12 @@
         <option value="$PROJECT_DIR$/css/search.css" />
         <option value="$PROJECT_DIR$/config.xml" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp03005/data/www/esitewx/application/index/controller/Dianying.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/scp25628/data/www/xsl/Application/Data/Controller/FileController.class.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp20942/data/www/dianying/xslpac.php" />
+        <option value="$USER_HOME$/Desktop/html.html" />
+        <option value="$PROJECT_DIR$/css/main_p.css" />
         <option value="$PROJECT_DIR$/html/main.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp25628/data/www/xsl/Application/Data/Controller/FileController.class.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp52027/data/www/dianying/aqiyi.php" />
         <option value="$PROJECT_DIR$/html/goods_detail.html" />
       </list>
     </option>
@@ -251,7 +220,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -259,7 +228,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.121875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.121875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -346,6 +315,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4804" max-vertical-offset="7530">
           <caret line="177" column="12" selection-start-line="177" selection-start-column="12" selection-end-line="177" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -391,13 +361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main_p.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4804" max-vertical-offset="7530">
-          <caret line="177" column="12" selection-start-line="177" selection-start-column="12" selection-end-line="177" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -478,37 +441,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp02345/alidata/www/weixin/tpl/Wap/default/Installment_route_apply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17130">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1530762393000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp03730/alidata/www/weixin/tpl/Wap/default/Installment_orderCheck.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3977273" vertical-offset="1350" max-vertical-offset="4860">
+          <caret line="86" column="46" selection-start-line="61" selection-start-column="6" selection-end-line="86" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04616/data/www/xsl/Application/Common/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="919">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main_p.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8310">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp25628/data/www/xsl/Application/Data/Controller/FileController.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10034602" vertical-offset="333" max-vertical-offset="1650">
-          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+        <state vertical-scroll-proportion="-11.538462" vertical-offset="210" max-vertical-offset="1650">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
           <folding>
-            <marker date="1536919562624" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-            <marker date="1536919562624" expanded="true" signature="-1:-1" placeholder="SELECT id AS..." />
+            <marker date="1537164639535" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp52027/data/www/dianying/aqiyi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13494809" vertical-offset="1263" max-vertical-offset="4050">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding>
+            <marker date="1537165034703" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1537165034703" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1537165034703" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1537165034703" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp20942/data/www/dianying/xslpac.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8650519" vertical-offset="5130" max-vertical-offset="6600">
+          <caret line="196" column="0" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+          <folding>
+            <marker date="1536911447000" expanded="true" signature="-1:-1" placeholder="select * fro..dianying_type..." />
+            <marker date="1536911447000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1536911447000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/html.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.871795" vertical-offset="650" max-vertical-offset="1620">
-          <caret line="41" column="22" selection-start-line="10" selection-start-column="3" selection-end-line="41" selection-end-column="22" />
+        <state vertical-scroll-proportion="-0.2" vertical-offset="1400" max-vertical-offset="4140">
+          <caret line="41" column="68" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.538462" vertical-offset="1650" max-vertical-offset="2940">
-          <caret line="70" column="38" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
-          <folding />
+        <state vertical-scroll-proportion="0.4982079" vertical-offset="1683" max-vertical-offset="3600">
+          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/goods_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4623656" vertical-offset="4173" max-vertical-offset="5400">
-          <caret line="152" column="69" selection-start-line="152" selection-start-column="69" selection-end-line="152" selection-end-column="69" />
+        <state vertical-scroll-proportion="0.42045453" vertical-offset="1610" max-vertical-offset="2790">
+          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
           <folding />
         </state>
       </provider>

@@ -49,7 +49,6 @@
 
 </div>
 
-
 </body>
 <script type="text/javascript">
     var url = '';
@@ -58,114 +57,27 @@
         getUrl(url);
     };
 
-    //https://m.yiybb.com/  一层一层往下找，就能看见加密的串，网站视频的解密方法
-    var StrHtml;
-    function ____e() {
-        return "0123456789,ABCDEFG,HIJKLMN,OPQRST,UVWXYZ,abcdefg,hijklmn,opqrst,uvwxyz"
-    }
-    function ____d() {
-        return "4560123987,GFEDCBA,MHIJLNK,PQRSTO,ZUVWXY,gfedcba,mhijlnk,pqrsto,zuvwxy"
-    }
-    function set_code(s, en, isN) {
-        var e_s = en ? ____e() : ____d(), d_s = en ? ____d() : ____e(), str = "";
-        e_s = isN ? e_s.split(",")[0] : e_s, d_s = isN ? d_s.split(",")[0] : d_s;
-        for (var i = 0; i < s.length; i++) {
-            n = -1;
-            n = e_s.indexOf(s.charAt(i));
-            if (n != -1) {
-                str += d_s.charAt(n)
-            } else {
-                str += s.charAt(i)
-            }
-        }
-        return str
-    }
-
     function getUrl(first_url) {
-        var url = set_code(unescape(first_url, 0, 0));
-        var Str_url = "http://m.yiybb.com/ck/ck.html?" + url + "|";
-//        window.open(StrHtml);
-
-        alert(Str_url);
-
-
-        var moviePlayer = api.require('moviePlayer');
-        moviePlayer.open({
-            rect:{
+        var Str_url = "https://jx.618g.com/?url=" + first_url;
+        api.openFrame({
+            name: 'win_show2',
+            url: Str_url,
+            rect: {
                 x: 0,
-                y: 0,
-                w:api.frameWidth,
-                h:300
+                y: 50,
+                w: 'auto',
+                h: 200
             },
-            styles:{
-                head:{
-                    bg: 'rgba(161,161,161,0.5)',
-                    height: 44,
-                    y:20,
-                    title:{
-                        size:20,
-                        color:'#fff',
-                        width:40,
-                        leftMargin:10
-                    },
-                    backSize: 30,
-                    backImg:'widget://image/back.png',
-                    customButtons:[{
-                        w:30,
-                        h:30,
-                        rightMagin:10,
-                        img:'widget://image/image/collect.png',
-                        imgSelected:'fs://image/collectSelected.png',
-                    }]},
-                foot:{
-                    bg: 'rgba(0,0,0,0.5)',
-                    height: 44,
-                    palyBtn:{
-                        size: 20,
-                        playImg:'widget://image/play.png',
-                        pauseImg:'widget://image/pause.png',
-                        marginLeft:5
-                    },
-                    currentTimeLabel:{
-                        textSize:14,
-                        textColor:"#FFF",
-                        textWidth: 43,
-                        marginLeft:5
-                    },
-                    seekBar:{
-                        sliderImg:'widget://image/circle.png',
-                        sliderW : 20,
-                        sliderH : 20,
-                        progressColor: '#696969',
-                        progressSelected: '#76EE00',
-                        marginLeft:10,
-                        marginRight:10
-                    },
-                    totalTimeLabel:{
-                        textSize:14,
-                        textColor:"#FFF",
-                        textWidth: 43,
-                        marginRight:5
-                    },
-                    fullscreenBtn:{
-                        size:20,
-                        verticalImg:'widget://image/vertical.png',
-                        horizontalImg:'widget://image/horizontal.png'
-                    }
-                } },
-            path:Str_url,
-            autoPlay: true
-        },function(ret, err){
-            if(ret){
-                // alert(JSON.stringify(ret));
-                // } else {
-                // alert(JSON.stringify(err));
-            }
-
+            bgColor:"rgba(0,0,0,0)",
+            pageParam: {
+                name: 'test'
+            },
+            bounces: true,
+            bgColor: 'rgba(0,0,0,0)',
+            vScrollBarEnabled: true,
+            hScrollBarEnabled: true
         });
-
     }
-
 
     function goback() {
         api.closeFrame({name: 'goods_detail'});

@@ -7,7 +7,7 @@
     <meta name="format-detection" content="telephone=no,email=no,date=no,address=no">
     <title>主页</title>
     <link rel="stylesheet" type="text/css" href="../css/api.css"/>
-    <link rel="stylesheet" type="text/css" href="../css/mui.css"/>
+    <!--<link rel="stylesheet" type="text/css" href="../css/mui.css"/>-->
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="../css/main_p.css"/>
     <script type="text/javascript" src="../script/api.js"></script>
@@ -18,10 +18,20 @@
 <body>
 <div id="app">
     <!--搜索框-->
-    <div class="search" onclick="go_search();">
-        <div class="img"></div>
+    <div class="sou" style="background: #f4f4f4;">
+        <!-- <div class="img"></div>
         <div class="desc">
-            <span class="txt">搜索</span>
+          <input type="text">
+
+        </div> -->
+        <div style="margin-right: 10px;">
+            <input id="name"
+                   style="padding: 0px;background: #ffffff;height: 30px;border:1px solid rosybrown;padding-left: 5px;"
+                   placeholder="请输入电影名称" type="text">
+        </div>
+
+        <div style="background: rosybrown;color: #ffffff;height: 30px;line-height: 30px;padding:0 10px;border-radius: 3px;">
+            <span class="txt" onclick="go_search();">搜索</span>
         </div>
     </div>
 
@@ -40,8 +50,6 @@
 </div>
 </body>
 <script type="text/javascript">
-
-
     var ceshiUrl = 'http://www.solearn.top/xsl/index.php/Data/File/get_list';
     var data_list = "";
     (function () {
@@ -53,6 +61,20 @@
         });
         getlist();
     })();
+
+    function go_search() {
+        var name = $("#name").val();
+        var url = ceshiUrl;
+        $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: url,
+            data: {name: name},
+            success: function (data) {
+                vm.list = data.data;
+            }
+        });
+    }
 
 
     function getlist() {
